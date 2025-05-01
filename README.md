@@ -9,9 +9,6 @@ Hi, I'm Victor 💻.
 ! I love working with React, Typescript, Ruby on Rails, NodeJS
 # 📖 Systems design and functional programming
 ```
-<code>
-  <a href="https://www.linkedin.com/in/victor-zaffalon-marra-18489a115/?locale=en_US" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
-</code>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
